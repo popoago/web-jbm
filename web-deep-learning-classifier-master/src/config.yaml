@@ -1,0 +1,14 @@
+title: JBM Assignment
+description: Detect Crack defect
+about:
+
+
+  This is a crack identifier in images using Deep Learning built on top of Pytorch.
+
+
+  
+code: https://github.com/popoago/jbm-web
+
+sampleImages:
+  - name: lasagne
+    url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg 
